@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="284px" height="99px" viewBox="0 0 284 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 27</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.06 0.813112685 0.06 98.12675 283.400938 98.12675 283.400938 0.813112685 0.06 0.813112685"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sushi-(3)" transform="translate(0.000000, -60.000000)">
+            <g id="Group-27" transform="translate(0.000000, 60.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-25"></g>
+                <path d="M105.719,89.718 C104.57,88.57 102.703,88.57 101.551,89.718 C100.398,90.871 100.402,92.738 101.551,93.89 L104.93,97.265 C106.078,98.414 107.945,98.414 109.094,97.265 C110.246,96.113 110.246,94.246 109.094,93.097 L105.719,89.718 Z" id="Fill-24" fill="#D1D3D3" mask="url(#mask-2)"></path>
+                <path d="M280.016,17.82 C281.953,17.941 283.477,19.624 283.398,21.566 L283.219,26.121 C283.145,28.062 281.492,29.621 279.551,29.585 L3.391,24.832 C1.449,24.796 -0.074,23.183 0.004,21.246 L0.676,4.128 C0.754,2.187 2.402,0.699 4.34,0.82 L280.016,17.82 Z" id="Fill-26" fill="#B3874F" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
